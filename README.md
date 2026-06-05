@@ -20,7 +20,7 @@ I help founders and teams:
 - Contributed to governance-related initiatives including [algorandfoundation/xGov](https://github.com/algorandfoundation/xGov)
 - Initiated and hosted open technical meetings; notes are publicly archived here:  
   [technical-adoption-committee wiki](https://github.com/algorandfoundation/technical-adoption-committee/wiki)
-- I also maintain an Algorand staking validator used by the community (over 2M ALGO delegated):  
+- I also maintain an Algorand staking validator used by the community (over 1M ALGO delegated):  
   [Validator 168](https://reti.nodely.io/validators/168)
 
 ## My SaaS (in progress)
